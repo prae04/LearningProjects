@@ -7,9 +7,8 @@ args=parser.parse_args()
 
 # args.src[0] = args.src[0].replace()
 
-# dest = '//wmdomain1/WHSDFS/Odyssey/Software/Cogito/Tableau/temp/'
-# dest = 'C:/Users/nah5/Downloads/temp/'
-# rootdir = 'C:/GitlabRunner/builds/bW79GcoR/0/data-and-analytics/test-project/**'
+# dest = dest/path
+# rootdir = root/path
 # print(args.src[0])
 # print(args.dest[0])
 # args.src[0] = args.src[0].replace('\\','/')
